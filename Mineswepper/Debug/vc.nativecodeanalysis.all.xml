@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?><DEFECTS><DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\lecho\source\repos\Mineswepper\Mineswepper\</FILEPATH>
+      <FILENAME>Board.h</FILENAME>
+      <LINE>27</LINE>
+      <COLUMN>6</COLUMN>
+    </SFA>
+    <DEFECTCODE>26812</DEFECTCODE>
+    <DESCRIPTION>Typ wyliczeniowy „Status” nie ma zakresu. Preferowany jest element „enum class” zamiast „enum” (enum.3).</DESCRIPTION>
+    <FUNCTION>Board::setStatus</FUNCTION>
+    <DECORATED>?setStatus@Board@@QAEXHHW4Status@@@Z</DECORATED>
+    <FUNCLINE>27</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT></DEFECTS>

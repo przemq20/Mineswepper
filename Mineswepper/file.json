@@ -1,0 +1,66 @@
+{
+    "leaderboard": {
+        "easy": [
+            {
+                "name": "asf",
+                "score": 1
+            },
+            {
+                "name": "Winner",
+                "score": 27
+            },
+            {
+                "name": "Winner",
+                "score": 29
+            },
+            {
+                "name": "Przemek",
+                "score": 32
+            },
+            {
+                "name": "asdf",
+                "score": 34
+            },
+            {
+                "name": "qq",
+                "score": 35
+            },
+            {
+                "name": "Przemek",
+                "score": 36
+            },
+            {
+                "name": "Przemek1",
+                "score": 64
+            },
+            {
+                "name": "Przemek1",
+                "score": 64
+            },
+            {
+                "name": "Przemek1",
+                "score": 64
+            }
+        ],
+        "hard": [
+            {
+                "name": "Przemek",
+                "score": 109
+            },
+            {
+                "name": "Przemek",
+                "score": 220
+            }
+        ],
+        "medium": [
+            {
+                "name": "Przemek",
+                "score": 109
+            },
+            {
+                "name": "Przemek",
+                "score": 220
+            }
+        ]
+    }
+}
